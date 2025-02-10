@@ -1,5 +1,4 @@
-# Sharp.AI
-🚀🔥😎
+# Sharp.AI 🚀🔥😎
 
 ## Semantic Kernel Wrapper for AI Functions
 A lightweight, easy-to-use C# library that wraps Semantic Kernel to provide streamlined access to AI functionalities—such as chatbots, voicebots, and more. This library simplifies the integration of AI capabilities into your .NET applications, enabling rapid development and deployment of intelligent agents.

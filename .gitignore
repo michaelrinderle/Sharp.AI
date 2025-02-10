@@ -7,6 +7,8 @@
 .env
 
 # User-specific files
+# JetBrains IDEs (e.g., IntelliJ IDEA, Rider)
+.idea/
 *.rsuser
 *.suo
 *.user
